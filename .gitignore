@@ -6,3 +6,6 @@
 
 # JSON Save Files
 *.json
+
+#Gemfile lock
+Gemfile.lock

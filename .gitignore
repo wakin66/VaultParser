@@ -1,0 +1,8 @@
+# DS_Store Files
+*.DS_Store
+
+# Vault Save Files
+*.sav
+
+# JSON Save Files
+*.json

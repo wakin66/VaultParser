@@ -1,0 +1,3 @@
+class Vault
+
+end
